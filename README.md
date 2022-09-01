@@ -66,25 +66,17 @@
 
 <br>
 
-📊 **This week I spent my time on**
+📊 **I Spent My Time on**
 <!--START_SECTION:waka-->
 ```text
-Discord.Js, Discord, Facebook
+Coding, Eat, Sleep
 ```
 <!--END_SECTION:waka-->
 
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show Some &nbsp;❤️&nbsp; By Starring Some Of The Repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-#### Thank You-🙏🏼
-
-<!-- 
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
-Original ReadMe creator: https://github.com/punitkmryh -->
+#### All Repositories Are Private ;)
