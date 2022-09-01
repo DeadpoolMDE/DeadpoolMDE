@@ -17,7 +17,7 @@
 ### I am a Developer
 - 🧑🏻‍💻 I’m Currently Working on ~~[Private Projects]~~ :grin:
 - 🙋 I’m Programmer, Full-Stack Web Developer, Ethical Hacker
-- 👯 I’m Currently Learning PHP, GO, RUOY.
+- 👯 I’m Currently Learning PHP, GO, RUBY.
 - 🥅 2022 Goals: Learn More Languages Like : French, Spanish, German
 - 💬 Ask Me About Anything, I Won't Answer :smile:
 - 📬 How To Reach Me: ~~Soon.!~~
@@ -29,25 +29,25 @@
 <h3 align='center'> 🔭  I’m Currently Work With...</h4>
 <br>
 <p align='center'>
-  <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java8%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Golang-%230077B5.svg?&style=for-the-badge&logo=go&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=Blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bash%20-gray.svg?&style=for-the-badge&logo=bash&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NodeJS%20-darkgreen.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Replit%20-darkblue.svg?&style=for-the-badge&logo=replit&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux%20-gray.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
 <h3 align='center'> 🌱  I'm currently learning...</h4>
 <br>
 <p align='center'>
-  <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Vue%20-%23339903.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Node%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/angular%20-%23c21325.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/electron%20-%2361DAGB.svg?&style=for-the-badge&logo=electron&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GO%20-gray.svg?&style=for-the-badge&logo=go&logoColor=black" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ruby%20-%23c21325.svg?&style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/php%20-purple.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -55,13 +55,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RANKTW&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="RANKTW's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DEADPOOLEVIL&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="DEADPOOLEVIL's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANKTW&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEADPOOLEVIL&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 <br>
@@ -69,7 +69,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Java, everytime, everywhere
+Discord.Js, Discord, Facebook
 ```
 <!--END_SECTION:waka-->
 
@@ -81,10 +81,10 @@ Java, everytime, everywhere
 
 #### Thank You-🙏🏼
 
-
+<!-- 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
-Original ReadMe creator: https://github.com/punitkmryh
+Original ReadMe creator: https://github.com/punitkmryh -->
