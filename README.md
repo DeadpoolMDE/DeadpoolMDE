@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><img src="https://media.discordapp.net/attachments/1014344870917320784/1014765845467119666/77caa32884d735d439ade45ba37feaf2.gif?width=814&height=458" width="450px"><br><br>
-  <samp> I'm an Avid learner, I'm From Egypt 16 years old Muslim, and I'm Interested in Cybersecurity and Ethical Hacking, That's it. :)</samp>
+  <samp> I'm an Avid learner, I'm From Egypt 17 years old Muslim, and I'm Interested in Cybersecurity and Programming, That's it. :)</samp>
   <br>
 </p>
 
@@ -20,7 +20,7 @@
 - 👯 I’m Currently Learning PHP, GO, RUBY.
 - 🥅 2023 Goals: Learn More Languages Like : French, Spanish, German
 - 💬 Ask Me About Anything, I Won't Answer :smile:
-- 📬 How To Reach Me: ~~Soon.!~~
+- 📬 How To Reach Me: (~~Soon.!~~) **<a href="deadpoolmde.xyz" target="_blank">My WebSite: DeadPoolMDE.xyz</a>** 
 - ⚡ Fact About Me: I Love Coding :raised_hands:
 
 <br>
